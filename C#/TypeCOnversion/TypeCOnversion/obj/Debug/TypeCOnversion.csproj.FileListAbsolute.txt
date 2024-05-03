@@ -1,0 +1,7 @@
+C:\Users\PJ Lunar\Desktop\Projects\TypeCOnversion\TypeCOnversion\obj\Debug\TypeCOnversion.csproj.AssemblyReference.cache
+C:\Users\PJ Lunar\Desktop\Projects\TypeCOnversion\TypeCOnversion\obj\Debug\TypeCOnversion.csproj.CoreCompileInputs.cache
+C:\Users\PJ Lunar\Desktop\Projects\TypeCOnversion\TypeCOnversion\bin\Debug\TypeCOnversion.exe.config
+C:\Users\PJ Lunar\Desktop\Projects\TypeCOnversion\TypeCOnversion\bin\Debug\TypeCOnversion.exe
+C:\Users\PJ Lunar\Desktop\Projects\TypeCOnversion\TypeCOnversion\bin\Debug\TypeCOnversion.pdb
+C:\Users\PJ Lunar\Desktop\Projects\TypeCOnversion\TypeCOnversion\obj\Debug\TypeCOnversion.exe
+C:\Users\PJ Lunar\Desktop\Projects\TypeCOnversion\TypeCOnversion\obj\Debug\TypeCOnversion.pdb

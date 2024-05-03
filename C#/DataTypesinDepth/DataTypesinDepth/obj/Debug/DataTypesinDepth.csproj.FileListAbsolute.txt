@@ -1,0 +1,7 @@
+C:\Users\PJ Lunar\Desktop\Projects\DataTypesinDepth\DataTypesinDepth\bin\Debug\DataTypesinDepth.exe.config
+C:\Users\PJ Lunar\Desktop\Projects\DataTypesinDepth\DataTypesinDepth\bin\Debug\DataTypesinDepth.exe
+C:\Users\PJ Lunar\Desktop\Projects\DataTypesinDepth\DataTypesinDepth\bin\Debug\DataTypesinDepth.pdb
+C:\Users\PJ Lunar\Desktop\Projects\DataTypesinDepth\DataTypesinDepth\obj\Debug\DataTypesinDepth.csproj.AssemblyReference.cache
+C:\Users\PJ Lunar\Desktop\Projects\DataTypesinDepth\DataTypesinDepth\obj\Debug\DataTypesinDepth.csproj.CoreCompileInputs.cache
+C:\Users\PJ Lunar\Desktop\Projects\DataTypesinDepth\DataTypesinDepth\obj\Debug\DataTypesinDepth.exe
+C:\Users\PJ Lunar\Desktop\Projects\DataTypesinDepth\DataTypesinDepth\obj\Debug\DataTypesinDepth.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PJ Lunar\\Desktop\\Projects\\DataTypesinDepth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{360CFC78-5BAC-4FF8-8FD1-6F1D046D9CB8}|DataTypesinDepth\\DataTypesinDepth.csproj|c:\\users\\pj lunar\\desktop\\projects\\datatypesindepth\\datatypesindepth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360CFC78-5BAC-4FF8-8FD1-6F1D046D9CB8}|DataTypesinDepth\\DataTypesinDepth.csproj|solutionrelative:datatypesindepth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PJ Lunar\\Desktop\\Projects\\DataTypesinDepth\\DataTypesinDepth\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypesinDepth\\Program.cs",
+              "ToolTip": "C:\\Users\\PJ Lunar\\Desktop\\Projects\\DataTypesinDepth\\DataTypesinDepth\\Program.cs",
+              "RelativeToolTip": "DataTypesinDepth\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:05:01.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

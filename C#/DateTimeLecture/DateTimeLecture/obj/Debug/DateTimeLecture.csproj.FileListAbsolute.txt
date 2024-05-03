@@ -1,0 +1,7 @@
+C:\Users\PJ Lunar\Desktop\Projects\DateTimeLecture\DateTimeLecture\bin\Debug\DateTimeLecture.exe.config
+C:\Users\PJ Lunar\Desktop\Projects\DateTimeLecture\DateTimeLecture\bin\Debug\DateTimeLecture.exe
+C:\Users\PJ Lunar\Desktop\Projects\DateTimeLecture\DateTimeLecture\bin\Debug\DateTimeLecture.pdb
+C:\Users\PJ Lunar\Desktop\Projects\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.csproj.AssemblyReference.cache
+C:\Users\PJ Lunar\Desktop\Projects\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.csproj.CoreCompileInputs.cache
+C:\Users\PJ Lunar\Desktop\Projects\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.exe
+C:\Users\PJ Lunar\Desktop\Projects\DateTimeLecture\DateTimeLecture\obj\Debug\DateTimeLecture.pdb
